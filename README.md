@@ -12,7 +12,7 @@ A React Native mobile app that connects to the Mastra AI agent.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/OmkarBansod02/mastra-expo-app.git
+git clone https://github.com/mastra-ai/mastraapp
 cd mastra-expo-app
 ```
 
